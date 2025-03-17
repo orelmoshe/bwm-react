@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# /server/config/dev.js
+/server/config/dev.js
 /server/.vscode
 
 # Ignore all css files
